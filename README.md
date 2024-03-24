@@ -1,2 +1,2 @@
-#SNN Winter 2024-CMPM118
+SNN Winter 2024-CMPM118
 
