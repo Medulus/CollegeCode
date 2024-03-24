@@ -1,2 +1,2 @@
-# CollegeCode
-Projects done in university
+#SNN Winter 2024-CMPM118
+
